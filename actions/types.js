@@ -1,0 +1,2 @@
+export const ISLOADING = 'ISLOADING';
+export const RENDER_TABLES = 'RENDER_TABLES';
